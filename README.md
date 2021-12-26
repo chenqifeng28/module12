@@ -7,6 +7,10 @@
 考虑 open tracing 的接入。
 
 
+httpserver service：
+![image](https://user-images.githubusercontent.com/32876594/147414916-c01ce633-1444-4884-9adc-d4dc5e407426.png)
+
+
 kubectl get svc istio-ingressgateway -n istio-system 
 ![image](https://user-images.githubusercontent.com/32876594/147414609-40feeb15-3c46-40fe-885d-f48d9c7ef304.png)
 
