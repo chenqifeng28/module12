@@ -16,5 +16,6 @@ kubectl get svc istio-ingressgateway -n istio-system
 
 访问地址：
 <节点IP>:<访问端口>
+
 访问测试：
 ![image](https://user-images.githubusercontent.com/32876594/147414385-6fe899a8-3314-4b2d-988f-31cb8aacbaa1.png)
