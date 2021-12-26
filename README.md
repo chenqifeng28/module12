@@ -7,11 +7,8 @@
 考虑 open tracing 的接入。
 
 
-
-
-# kubectl get svc istio-ingressgateway -n istio-system 
-NAME                   TYPE           CLUSTER-IP      EXTERNAL-IP   PORT(S)                                                                      AGE
-istio-ingressgateway   LoadBalancer   10.244.50.216   <pending>     15021:30295/TCP,80:31037/TCP,443:30459/TCP,31400:31951/TCP,15443:32238/TCP   55m
+kubectl get svc istio-ingressgateway -n istio-system 
+![image](https://user-images.githubusercontent.com/32876594/147414609-40feeb15-3c46-40fe-885d-f48d9c7ef304.png)
 
 访问端口：
 
